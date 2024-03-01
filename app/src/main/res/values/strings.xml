@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidhexcam</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="gif_description">hexcamlaunch.gif</string>
+</resources>
